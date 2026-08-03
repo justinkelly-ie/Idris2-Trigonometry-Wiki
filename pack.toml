@@ -3,10 +3,10 @@ type = "local"
 path = "."
 ipkg = "idris2-Trigonometry-Wiki.ipkg"
 
-[custom.all.idris2-Logic]
+[custom.all.idris2-Boole]
 type = "local"
 path = "../Idris2-Boole"
-ipkg = "idris2-Logic.ipkg"
+ipkg = "idris2-Boole.ipkg"
 
 [custom.all.idris2-Multiset]
 type = "local"
@@ -18,12 +18,22 @@ type = "local"
 path = "../idris2-QuickCheck"
 ipkg = "idris2-QuickCheck.ipkg"
 
-[custom.all.idris2-LUniverse]
+[custom.all.idris2-Universe]
 type = "local"
 path = "../idris2-Universe"
-ipkg = "idris2-LUniverse.ipkg"
+ipkg = "idris2-Universe.ipkg"
 
 [custom.all.idris2-chromogeometry]
 type = "local"
 path = "../idris2-Chromogeometry"
 ipkg = "idris2-chromogeometry.ipkg"
+
+[custom.all.idris2-Substrate]
+type = "local"
+path = "../idris2-Substrate"
+ipkg = "idris2-Substrate.ipkg"
+
+[custom.all.idris2-Electromagnetism]
+type = "local"
+path = "../idris2-Electromagnetism"
+ipkg = "idris2-Electromagnetism.ipkg"

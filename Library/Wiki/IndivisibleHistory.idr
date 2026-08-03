@@ -6,7 +6,7 @@ import Math.SignedFraction
 import Math.Chromogeometry
 import Math.Singleton.Sing
 import Math.Multiset
-import Simplex.Core
+import Substrate.Core
 import Data.List
 import Logic.FunctionalProbability
 import Logic.MobiusTransform
