@@ -3,10 +3,10 @@ type = "local"
 path = "."
 ipkg = "idris2-Trigonometry-Wiki.ipkg"
 
-[custom.all.idris2-Boole]
+[custom.all.Idris2-Multiset-Binary]
 type = "local"
-path = "../Idris2-Boole"
-ipkg = "idris2-Boole.ipkg"
+path = "../Idris2-Multiset-Binary"
+ipkg = "Idris2-Multiset-Binary.ipkg"
 
 [custom.all.idris2-Multiset]
 type = "local"
